@@ -1,0 +1,18 @@
+body{
+    background-color:beige ;
+    font-family: 'Rubik', sans-serif;
+}
+
+h1{
+    color:coral;
+    font-size: 24px;
+    font-family: 'Lobster', cursive;
+}
+
+h3{
+    color:darkblue
+}
+
+a:link{
+    color:blue
+}
