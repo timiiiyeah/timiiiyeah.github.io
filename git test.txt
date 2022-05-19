@@ -1,1 +1,3 @@
-git test
+git commit -m "insert your commit msg"
+git add .
+git push
