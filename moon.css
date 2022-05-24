@@ -1,0 +1,170 @@
+body{
+    background-color:black;
+    background-image: url("graphics/space_title.jpeg");
+    background-repeat: repeat-y;
+}
+
+a:link{
+    color: white;
+}
+a:visited{
+    color:darkgray;
+}
+
+#spacetitle{
+    position: absolute; top: -20px;
+}
+
+#titlepage{
+    position: absolute; top: -200px; left: -200px;
+}
+
+#titletext{
+    position: absolute; top: 240px; left: 750px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#knot1{
+    position: absolute; top: 1000px; left: 643px;
+}
+
+#box1{
+    height: 200px;
+    width: 450px;
+    position: absolute; top: 920px; left: 150px;
+}
+
+#head1{
+    color: white;
+    font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#text1{
+    color:white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#formation{
+    position: absolute; top: 870px; left: 750px;
+}
+
+
+
+
+#knot2{
+    position: absolute; top: 1450px; left: 643px;
+}
+
+#box2{
+    height: 200px;
+    width: 450px;
+    position: absolute; top: 1370px; left: 720px;
+}
+
+#head2{
+    color: white;
+    font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#text2{
+    color:white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#exploration{
+    position: absolute; top: 1300px; left: 150px;
+}
+
+
+
+
+#knot3{
+    position: absolute; top: 1850px; left: 643px;
+}
+
+#box3{
+    height: 200px;
+    width: 450px;
+    position: absolute; top: 1770px; left: 150px;
+}
+
+#head3{
+    color: white;
+    font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#text3{
+    color:white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#eclipse{
+    position: absolute; top: 1680px; left: 680px;
+}
+
+
+
+
+#knot4{
+    position: absolute; top: 2300px; left: 643px;
+}
+
+#box4{
+    height: 200px;
+    width: 450px;
+    position: absolute; top: 2220px; left: 720px;
+}
+
+#head4{
+    color: white;
+    font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#text4{
+    color:white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#funfact{
+    position: absolute; top: 2110px; left: 100px;
+}
+
+
+
+
+
+#knot5{
+    position: absolute; top: 2700px; left: 643px;
+}
+
+#box5{
+    height: 200px;
+    width: 450px;
+    position: absolute; top: 2620px; left: 150px;
+}
+
+#head5{
+    color: white;
+    font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#text5{
+    color:white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#calendar{
+    position: absolute; top: 2530px; left: 720px;
+}
